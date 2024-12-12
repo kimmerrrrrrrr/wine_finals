@@ -143,6 +143,6 @@ if section == "4. Conclusions and Recommendations":
         ax.set_title("Sulphates vs Wine Quality")
         ax.set_xlabel("Wine Quality")
         ax.set_ylabel("Sulphates")
-        st.pyplot(fig)
+        st.pyplot(fig) 
 
 
